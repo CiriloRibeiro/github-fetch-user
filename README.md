@@ -12,7 +12,7 @@ This simple web application allows users to search for GitHub usernames and retr
 
 ## Preview
 
-![GitHub Username Search]()
+[![GitHub Username Search]()](https://ciriloribeiro.github.io/github-fetch-user/)
 
 ## Technologies Used
 
